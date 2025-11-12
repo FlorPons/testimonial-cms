@@ -36,7 +36,7 @@ Construir un sistema CMS que permita:
 | Rol       | Tecnología                                             |
 |-----------|--------------------------------------------------------|
 | Backend   | Java Spring Boot | API REST documentada, PostgreSQL    |
-| Frontend  | React + TypeScript + Vite | Tailwind, Zustand, Zod, React Router, Toastify, React Query, posible uso de Chadcn           |
+| Frontend  | React + TypeScript + Vite | Tailwind, Zustand, Zod, React Router, React Toastify, React Query, posible uso de Chadcn           |
 | Multimedia| YouTube API + Cloudinary | Gestión de video e imágenes |
 | UX/UI     | Figma | Diseño colaborativo y prototipado              |
 
